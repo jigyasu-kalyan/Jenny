@@ -58,5 +58,5 @@ It can open/close applications, play music, browse websites, and is designed wit
 - Expand command set (calendar, reminders, weather)
 
 👨‍💻 Author
+
 Jigyasu Kalyan
-GitHub
